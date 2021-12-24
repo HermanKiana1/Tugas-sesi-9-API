@@ -1,6 +1,6 @@
 # Tugas-sesi-9-API
+
 HERMAN KIANA
-Link repo github
 
 1. Metode POST.
 - Create new object repository "Method POST"
